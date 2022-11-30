@@ -35,10 +35,6 @@ img {
   width: 100%;
 }
 
- /* .top {
-  background-color: #fff;
-}  */
-
 .header {
   display: flex;
   justify-content: space-between;
@@ -117,7 +113,7 @@ img {
   padding: 10px 24px;
 }
 
-.social_media_about p{
+.social_media_about p {
   color: #6070ff;
 }
 
